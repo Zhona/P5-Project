@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  address: MyString
+  apartment: MyString
+  user_id: 1
+  phoneNumber: MyString
+  subtotal: 1
+  shipping: 1
+  taxes: 1.5
+  total: 1
+
+two:
+  address: MyString
+  apartment: MyString
+  user_id: 1
+  phoneNumber: MyString
+  subtotal: 1
+  shipping: 1
+  taxes: 1.5
+  total: 1
